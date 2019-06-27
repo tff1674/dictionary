@@ -1,0 +1,9 @@
+abandon|ebanden|1|vt.|遗弃；放弃；放纵(自己)
+ability|ebelItI|1|n.|能力，才能
+aboard|ebod|2|ad.&prep.|在船(飞机、车)上|ad.|在船(飞机、车)上
+about|about|2|ad.|周围；大约|prep.|周围；大约
+above|ebaov|3|prep.|高于，在…之上|a.|高于，在…之上|ad.|高于，在…之上
+abroad|abroud|1|ad.|在国外，在海外
+absence|ebsens|1|n.|缺席；缺乏，缺少
+absent|ebsent|1|a.|缺席的；缺乏的；不在意的，茫然
+forget|fegot|1|v.|健忘
